@@ -1,0 +1,7 @@
+[[rule]]
+must_contain = "..."
+run_command = "..."
+
+[[rule]]
+must_contain = "..."
+run_command = "..."
